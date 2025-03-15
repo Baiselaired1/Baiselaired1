@@ -1,4 +1,5 @@
-Hi, I’m @Baiselaired1 Seth Traeder
+Hi, I’m @Baiselaired1 (Seth Traeder)
+
 While I doubt this will ever matter...
 
 I'm trying to learn to program for app development
